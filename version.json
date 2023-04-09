@@ -1,1 +1,1 @@
-{"VersionCode": 5, "VersionName": "1.5", "VersionChanges": "1.优化初始化操作逻辑\n2.增加静音键同步暂停音乐\n3.修复设置窗口不关闭的BUG", "apkpath": "https://ghproxy.com/https://github.com/gaoadmin/havaltools/raw/main/havaltools_V1_5.apk", "md5": "eb5684bfaef8858d0f80d28e973c2ed2", "testing": true, "force": true}
+{"VersionCode": 5, "VersionName": "1.5", "VersionChanges": "1.优化初始化操作逻辑\n2.提升开机自启优先级\n3.增加静音键同步暂停音乐\n4.修复设置窗口不关闭的BUG", "apkpath": "https://ghproxy.com/https://github.com/gaoadmin/havaltools/raw/main/havaltools_V1_5.apk", "md5": "eb5684bfaef8858d0f80d28e973c2ed2", "testing": true, "force": true}
