@@ -1,1 +1,1 @@
-{"VersionCode": 4, "VersionName": "1.4", "VersionChanges": "1.修复空调风向控制\n2.暂时移除切换CarPlay功能", "apkpath": "https://ghproxy.com/https://github.com/gaoadmin/havaltools/raw/main/havaltools_V1_4.apk", "md5": "4be1be8bda7bd5b916c136478d339933", "testing": true}
+{"VersionCode": 5, "VersionName": "1.5", "VersionChanges": "1.优化初始化操作逻辑\n2.增加静音键同步暂停音乐\n3.修复设置窗口不关闭的BUG", "apkpath": "https://ghproxy.com/https://github.com/gaoadmin/havaltools/raw/main/havaltools_V1_5.apk", "md5": "eb5684bfaef8858d0f80d28e973c2ed2", "testing": true, "force": true}
