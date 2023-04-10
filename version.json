@@ -1,1 +1,1 @@
-{"VersionCode": 5, "VersionName": "1.5", "VersionChanges": "1.优化初始化操作逻辑\n2.增加静音键同步暂停音乐\n3.修复设置窗口不关闭的BUG", "apkpath": "https://ghproxy.com/https://github.com/gaoadmin/havaltools/raw/main/havaltools_V1_5.apk", "md5": "eb5684bfaef8858d0f80d28e973c2ed2", "testing": true, "force": true}
+{"VersionCode": 6, "VersionName": "1.6", "VersionChanges": "1.尝试优化驾驶模式记忆处理逻辑\n2.修复上个版本选择运动模式不显示的问题", "apkpath": "https://ghproxy.com/https://github.com/gaoadmin/havaltools/raw/main/havaltools_V1_6.apk", "md5": "6b6445c99219631379f45bb679bda337", "testing": true, "force": true}
