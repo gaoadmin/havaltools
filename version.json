@@ -1,1 +1,1 @@
-{"VersionCode": 8, "VersionName": "1.8", "VersionChanges": "1.修复大狗车型选项显示空白\n2.修复切换运动模式后转向模式更改错误", "apkpath": "https://ghproxy.com/https://github.com/gaoadmin/havaltools/raw/main/havaltools_V1_8.apk", "md5": "d3229a733bee6eeddf89c79f6b5c542d", "testing": true, "force": true}
+{"VersionCode": 9, "VersionName": "1.9", "VersionChanges": "1.修复驾驶模式配置不保存\n2.修复附加设置显示错位\n3.避免延迟卡顿,移除列表展开箭头动画\n", "apkpath": "https://ghproxy.com/https://github.com/gaoadmin/havaltools/raw/main/havaltools_V1_9.apk", "md5": "d322774949a26158b6ac25cf01ecae52", "testing": true, "force": true}
