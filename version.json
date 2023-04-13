@@ -1,1 +1,1 @@
-{"VersionCode": 7, "VersionName": "1.7", "VersionChanges": "1.优化驾驶模式记忆操作逻辑\n2.优化首次初始化操作逻辑\n3.修复窗口模式导致的崩溃问题\n4.窗口模式增加超时自动关闭\n", "apkpath": "https://ghproxy.com/https://github.com/gaoadmin/havaltools/raw/main/havaltools_V1_7.apk", "md5": "01246b4bb02e69764b82295ff861d5ed", "testing": true, "force": true}
+{"VersionCode": 8, "VersionName": "1.8", "VersionChanges": "1.修复大狗车型选项显示空白\n2.修复切换运动模式后转向模式更改错误", "apkpath": "https://ghproxy.com/https://github.com/gaoadmin/havaltools/raw/main/havaltools_V1_8.apk", "md5": "d3229a733bee6eeddf89c79f6b5c542d", "testing": true, "force": true}
