@@ -1,1 +1,1 @@
-{"VersionCode": 10, "VersionName": "2.0", "VersionChanges": "1.修复驾驶模式配置不保存\n2.修复附加设置显示错位\n3.避免延迟卡顿,移除列表展开箭头动画\n", "apkpath": "https://ghproxy.com/https://github.com/gaoadmin/havaltools/raw/main/havaltools_V2_0.apk", "md5": "9bd9751d83d575f0fefd7cad0809cd3f", "testing": true, "force": true}
+{"VersionCode": 10, "VersionName": "2.0", "VersionChanges": "1.修复驾驶模式配置不保存\n2.修复附加设置显示错位\n3.避免延迟卡顿,移除列表展开箭头动画\n", "apkpath": "https://ghproxy.com/https://github.com/gaoadmin/havaltools/raw/main/havaltools_V2_0.apk", "md5": "65820c56cd32a551b2dfe08b156cf2e6", "testing": true, "force": true}
