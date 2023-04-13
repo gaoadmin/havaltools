@@ -1,1 +1,1 @@
-{"VersionCode": 9, "VersionName": "1.9", "VersionChanges": "1.修复驾驶模式配置不保存\n2.修复附加设置显示错位\n3.避免延迟卡顿,移除列表展开箭头动画\n", "apkpath": "https://ghproxy.com/https://github.com/gaoadmin/havaltools/raw/main/havaltools_V1_9.apk", "md5": "d322774949a26158b6ac25cf01ecae52", "testing": true, "force": true}
+{"VersionCode": 9, "VersionName": "1.9", "VersionChanges": "1.修复驾驶模式配置不保存\n2.修复附加设置显示错位\n3.避免延迟卡顿,移除列表展开箭头动画\n", "apkpath": "https://ghproxy.com/https://github.com/gaoadmin/havaltools/raw/main/havaltools_V1_9.apk", "md5": "0cdb1cd3e98909961b4b49022d8e9897", "testing": true, "force": true}
