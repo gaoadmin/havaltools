@@ -1,1 +1,1 @@
-{"VersionCode": 11, "VersionName": "2.1", "VersionChanges": "1.修复驾驶模式记忆关闭不彻底\n2.修复蓝牙音频静音键暂停、播放\n3.优化一键运动模式逻辑,即熄火后取消运动模式", "apkpath": "https://ghproxy.com/https://github.com/gaoadmin/havaltools/raw/main/havaltools_V2_1.apk", "md5": "af682d23b075725af6e44d807dacda2a", "testing": false, "force": true}
+{"VersionCode": 13, "VersionName": "2.3", "VersionChanges": "修复BUG", "apkpath": "https://ghproxy.com/https://github.com/gaoadmin/havaltools/raw/main/havaltools_V2_3.apk", "md5": "a2f9147c21beddae35c5e8a76fd0c5f2", "testing": false, "force": true}
